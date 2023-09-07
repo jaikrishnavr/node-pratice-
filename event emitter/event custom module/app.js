@@ -1,5 +1,7 @@
 // Import required modules
 const events = require('events');
+
+// Import the 'util' module, which provides utility functions
 const util = require('util');
 
 // Define a constructor function for a "teams" object
